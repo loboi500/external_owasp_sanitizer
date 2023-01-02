@@ -1,6 +1,3 @@
-third_party {
-  # would be NOTICE save for CPL 1.0 in:
-  #   lib/junit/cpl-v10.html
-  #   lib/junit/README.html
-  license_type: RECIPROCAL
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:805eff8252050e6350c80778bff0bd96be00cab2270ff4ab4c2e21b98ab25c37
+size 141

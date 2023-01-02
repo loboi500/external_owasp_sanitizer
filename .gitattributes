@@ -1,0 +1,12 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+CHANGE_LOG.html filter=lfs diff=lfs merge=lfs -text
+COPYING filter=lfs diff=lfs merge=lfs -text
+empiricism filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+benchmark-data filter=lfs diff=lfs merge=lfs -text
+distrib filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
